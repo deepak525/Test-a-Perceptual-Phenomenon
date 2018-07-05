@@ -7,11 +7,10 @@ In this project, you will investigate a classic phenomenon from experimental psy
 ## Why this Project?
 Statistics is a major component of data analysis, it allows you to investigate data and make inferences based on your observations. A foundation in statistics also allows you to be a consumer of analyses that others perform, and allows you to relate to the conclusions others have drawn from their investigations.
 
-## What will I Learn?
+## What will you Learn?
 - This project will review the basic concepts of statistics, including:
 - How to identify components of an experiment
 - How to use descriptive statistics to describe qualities of a sample
 - How to set up a hypothesis test, make inferences from a sample, and draw conclusions based on the results
 
-## Why is this Important to my Career?
 This project is focused on statistics, including designing an experiment and testing a hypothesis. Using statistics to draw valid conclusions about data is an important part of a data analyst's work. When you see a company release a new feature, what do you think went into the decisionmaking? Typically, a business has a goal they want to achieve - for Udacity, it may mean increased enrollments. We'd spend a long time user testing and A/B testing to make sure trials of potential products indicate we'd get the outcome we wanted.
